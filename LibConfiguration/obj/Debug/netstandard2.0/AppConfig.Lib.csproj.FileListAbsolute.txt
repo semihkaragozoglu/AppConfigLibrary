@@ -1,0 +1,8 @@
+C:\Projects\kariyer.net\AppConfigLibrary\LibConfiguration\bin\Debug\netstandard2.0\AppConfig.Lib.deps.json
+C:\Projects\kariyer.net\AppConfigLibrary\LibConfiguration\bin\Debug\netstandard2.0\AppConfig.Lib.dll
+C:\Projects\kariyer.net\AppConfigLibrary\LibConfiguration\obj\Debug\netstandard2.0\AppConfig.Lib.csprojAssemblyReference.cache
+C:\Projects\kariyer.net\AppConfigLibrary\LibConfiguration\obj\Debug\netstandard2.0\AppConfig.Lib.AssemblyInfoInputs.cache
+C:\Projects\kariyer.net\AppConfigLibrary\LibConfiguration\obj\Debug\netstandard2.0\AppConfig.Lib.AssemblyInfo.cs
+C:\Projects\kariyer.net\AppConfigLibrary\LibConfiguration\bin\Debug\netstandard2.0\AppConfig.Lib.pdb
+C:\Projects\kariyer.net\AppConfigLibrary\LibConfiguration\obj\Debug\netstandard2.0\AppConfig.Lib.dll
+C:\Projects\kariyer.net\AppConfigLibrary\LibConfiguration\obj\Debug\netstandard2.0\AppConfig.Lib.pdb
